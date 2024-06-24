@@ -10,13 +10,13 @@ Time spent: **4** hours spent in total
 
 The analysis can be done to **pursue** following objectives:
 
-* [x] To improve customer experience by analysing the sales data
-* [x] Increase Revenue
+* [x] To improve customer experience by analysing the sales data.
+* [x] Increase Revenue.
 
 The following **required** functionality is completed:
 
 * [x] With use of Python Programming language retrieval & cleaning of data becomes efficient and faster.
-* [x] Plots are obtained in form of Bar Graph
+* [x] Plots are obtained in form of Bar Graph.
 * [x] Provided simple visualization to know insights of products.
 * [x] A conclusion can easily be obtained after analysing all the plots generated.
 
