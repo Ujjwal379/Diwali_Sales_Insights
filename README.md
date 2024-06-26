@@ -2,7 +2,7 @@
 
 ## *Ujjwal Gupta*
 
-**Diwali Sales Insights** is an Exploratory Data analytical approach to get insights of sales and orders of the products through online shopping by people on the festival of Diwali. With use of Python libraries like - Numpy, Pandas, Matplotlib and seaborn, etc. Analysis is done on over 11000+ data samples. 
+**Diwali Sales Insights** is an Exploratory Data analytical approach to get insights of sales and orders of the products purchased through online shopping by people on the festival of Diwali. With use of Python libraries like - Numpy, Pandas, Matplotlib and seaborn, etc. Analysis is done on over 11000+ data samples. 
 
 Time spent: **4** hours spent in total
 
